@@ -1,3 +1,4 @@
+
 .endie{
     width: 70%;
     margin: auto;
@@ -5,3 +6,28 @@
     padding: 10px;
     border-radius: 5px;
 }
+
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+h2{
+	background: rgb(123, 234, 123);
+	padding: 5px;
+	color: #fff;
+	font-size: 18px;
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px rgb(207, 199, 199);
+
+}	
+ 
+ #intro p{
+ 	background: red;
+    padding: 10px;
+ }
