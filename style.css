@@ -1,0 +1,19 @@
+
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+#intro h2{
+	background: green;
+	padding: 5px;
+	color: #fff;
+	font-size: 18px;
+
+}	
+ 
+ #intro p{
+ 	background: red;
+ }
